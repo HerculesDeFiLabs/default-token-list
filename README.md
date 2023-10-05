@@ -1,6 +1,6 @@
-# Camelot DEX - Default token list
+# HerculesDEX - Default token list
 
-This GitHub repo contains the default token list used in the Camelot interface.
+This GitHub repo contains the default token list used in the Hercules interface.
 
 ## Adding a token
 
@@ -8,12 +8,12 @@ You can request the addition of the token through an issue submission or a pull 
 
 ### Option #1: submit an issue
 
-To request the whitelisting of a token to Camelot,
-[file an issue](https://github.com/CamelotLabs/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+To request the whitelisting of a token to Hercules,
+[file an issue](https://github.com/HerculesDEX/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Option #2: pull request
 
-To directly submit the integration of your token to Camelot's default token list, you can create your entry and submit a PR with it.
+To directly submit the integration of your token to Hercules' default token list, you can create your entry and submit a PR with it.
 
 **1. Fork this repo**
 
