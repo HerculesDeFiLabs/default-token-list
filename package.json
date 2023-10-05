@@ -1,18 +1,18 @@
 {
-  "name": "camelot-default-token-list",
+  "name": "hercules-default-token-list",
   "version": "1.0.0",
-  "author": "Camelot Labs",
+  "author": "Hercules Team",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "test": "mocha",
-    "build": "mkdir -p build && node src/write.js > build/tokens.json && cp _redirects build/"
+    "build": "mkdir -p build && node src/write.js > build/tokens.json && cp _redirects build/ && mkdir -p build/images && cp images/* build/images/"
   },
   "files": [
     "build/tokens.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CamelotLabs/default-token-list.git"
+    "url": "git+https://github.com/HerculesDEX/default-token-list"
   },
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
