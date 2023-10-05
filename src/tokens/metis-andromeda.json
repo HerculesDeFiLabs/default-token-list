@@ -1,0 +1,71 @@
+[
+  {
+    "chainId": 1088,
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "logoURI": "https://app.camelot.exchange/images/tokens/weth.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "quote": "native",
+    "priceChartPair": "0xb7dd20f3fbf4db42fd85c839ac0241d09f72955f"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "GRAIL",
+    "name": "Camelot GRAIL",
+    "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+    "logoURI": "https://app.camelot.exchange/images/tokens/grail.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "logoURI": "https://app.camelot.exchange/images/tokens/arb.jpg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "xGRAIL",
+    "name": "Camelot xGRAIL",
+    "address": "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b",
+    "logoURI": "https://app.camelot.exchange/images/tokens/xgrail.svg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "BFR",
+    "name": "Buffer Token",
+    "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+    "logoURI": "https://app.camelot.exchange/images/tokens/bfr.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "cmUMAMI",
+    "name": "Compounded Marinated UMAMI",
+    "address": "0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB",
+    "logoURI": "https://app.camelot.exchange/images/tokens/cmumami.svg",
+    "decimals": 9,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "DAI",
+    "name": "DAI",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "logoURI": "https://app.camelot.exchange/images/tokens/dai.svg",
+    "decimals": 18,
+    "quote": "derived_stable"
+  }
+]
