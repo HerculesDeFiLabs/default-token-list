@@ -1,11 +1,11 @@
 const { version } = require("../package.json");
-const arbitrumGoerli = require("./tokens/arbitrum-goerli.json");
-const arbitrumOne = require("./tokens/arbitrum-one.json");
+const metisGoerli = require("./tokens/metis-goerli.json");
+const metisAndromeda = require("./tokens/metis-andromeda.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Camelot default token list",
+    name: "Hercules default token list",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -13,9 +13,9 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://app.camelot.exchange/images/logo-sm.svg",
-    keywords: ["camelot", "default"],
-    tokens: [...arbitrumGoerli, ...arbitrumOne]
+    logoURI: "https://app.camelot.exchange/images/logo-sm.svg", // TO-DO
+    keywords: ["hercules", "default"],
+    tokens: [...metisGoerli, ...metisAndromeda]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
@@ -23,5 +23,5 @@ module.exports = function buildList() {
         }
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
-  }
+  };
 };
