@@ -11,6 +11,27 @@
   },
   {
     "chainId": 599,
+    "symbol": "TORCH",
+    "name": "Hercules TORCH",
+    "address": "0xCEF46cD2893eFC5E8ed7db4F3c7f50601F558431",
+    "logoURI": "https://token-list.hercules.exchange/images/Torch.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "xTORCH",
+    "name": "Hercules xTORCH",
+    "address": "0x85817bF6c347d6E2dEf1983CD1729ecF09eA1316",
+    "logoURI": "https://token-list.hercules.exchange/images/xTorch.svg",
+    "decimals": 18,
+    "common": false,
+    "quote": "other",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 599,
     "symbol": "TETHYS",
     "name": "Tethys",
     "address": "0x0E1F04F9573dBE3537a40f7eE55CEf918Ba9932b",
