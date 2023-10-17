@@ -4,7 +4,7 @@
     "symbol": "WETH",
     "name": "Ether",
     "address": "0x420000000000000000000000000000000000000A",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/tethys.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/wETH.svg",
     "decimals": 18,
     "isWNative": true,
     "quote": "native"
@@ -14,7 +14,7 @@
     "symbol": "TETHYS",
     "name": "Tethys",
     "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/tethys.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/Tethys.svg",
     "decimals": 18,
     "quote": "other"
   },
@@ -23,7 +23,7 @@
     "symbol": "MAI",
     "name": "Mai Stablecoin",
     "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/mai.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/MAI.svg",
     "decimals": 18,
     "quote": "other"
   },
@@ -32,7 +32,7 @@
     "symbol": "ATH",
     "name": "Athena Token",
     "address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/ath.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/Ath.svg",
     "decimals": 18,
     "quote": "other"
   },
@@ -41,7 +41,7 @@
     "symbol": "WBTC",
     "name": "Wrapped BTC",
     "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/wbtc.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/wbtc.svg",
     "decimals": 18,
     "quote": "other"
   },
@@ -50,7 +50,7 @@
     "symbol": "m.USDC",
     "name": "USDC Token",
     "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/usdc.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/USDC.svg",
     "decimals": 6,
     "quote": "other"
   },
@@ -59,7 +59,7 @@
     "symbol": "m.USDT",
     "name": "USDT Token",
     "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
-    "logoURI": "https://token-list.hercules.exchange/images/tokens/usdt.svg",
+    "logoURI": "https://token-list.hercules.exchange/images/USDT.svg",
     "decimals": 6,
     "quote": "other"
   }
