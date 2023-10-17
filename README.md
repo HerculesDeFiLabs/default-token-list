@@ -30,7 +30,7 @@ To directly submit the integration of your token to Hercules' default token list
 - quote (string): define the type of your token, should be one of the following values:
   - "native": e.g. WETH
   - "stable": e.g. USDC, USDT
-  - "other": e.g. GRAIL, GMX
+  - "other": e.g. TORCH, GMX
   - "derived_native": e.g. wstETH, rETH
   - "derived_stable": e.g. jUSDC, fUSDC
 
