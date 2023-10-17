@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "chainId": 1088,
+    "symbol": "WMETIS",
+    "name": "Wrapped METIS",
+    "address": "0x577dDC8c1bb948cdcF123Cd1f453Be80875Ec1F3",
+    "logoURI": "https://token-list.hercules.exchange/images/metis.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TETHYS",
+    "name": "Tethys",
+    "address": "0x0E1F04F9573dBE3537a40f7eE55CEf918Ba9932b",
+    "logoURI": "https://token-list.hercules.exchange/images/Tethys.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MAI",
+    "name": "Mai Stablecoin",
+    "address": "0x7FCae76CB51C80d3F37518a44918c6Cb07Aa9DD1",
+    "logoURI": "https://token-list.hercules.exchange/images/MAI.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ATH",
+    "name": "Athena Token",
+    "address": "0x620a6C599e4F14d814Aea0E197f5Ab93871682d3",
+    "logoURI": "https://token-list.hercules.exchange/images/Ath.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "address": "0xD07623120E790cd073faDe2526943aff1c45FF12",
+    "logoURI": "https://token-list.hercules.exchange/images/wbtc.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "m.USDC",
+    "name": "USDC Token",
+    "address": "0xCF53676c5b753D73B7a0F93f4F559d237494d3Fb",
+    "logoURI": "https://token-list.hercules.exchange/images/USDC.svg",
+    "decimals": 6,
+    "quote": "other"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "m.USDT",
+    "name": "USDT Token",
+    "address": "0xa845f2A3FCFDD0d572423c3047444C3f5a36E8c6",
+    "logoURI": "https://token-list.hercules.exchange/images/USDT.svg",
+    "decimals": 6,
+    "quote": "other"
+  }
+]
