@@ -73,7 +73,7 @@
     "address": "0xCF53676c5b753D73B7a0F93f4F559d237494d3Fb",
     "logoURI": "https://token-list.hercules.exchange/images/USDC.svg",
     "decimals": 6,
-    "quote": "other"
+    "quote": "stable"
   },
   {
     "chainId": 599,
