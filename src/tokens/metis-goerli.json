@@ -72,7 +72,7 @@
     "name": "USDC Token",
     "address": "0xCF53676c5b753D73B7a0F93f4F559d237494d3Fb",
     "logoURI": "https://token-list.hercules.exchange/images/USDC.svg",
-    "decimals": 6,
+    "decimals": 18,
     "quote": "stable"
   },
   {
@@ -81,7 +81,7 @@
     "name": "USDT Token",
     "address": "0xa845f2A3FCFDD0d572423c3047444C3f5a36E8c6",
     "logoURI": "https://token-list.hercules.exchange/images/USDT.svg",
-    "decimals": 6,
+    "decimals": 18,
     "quote": "other"
   }
 ]
