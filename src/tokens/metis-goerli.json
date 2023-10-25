@@ -46,7 +46,7 @@
     "address": "0x7FCae76CB51C80d3F37518a44918c6Cb07Aa9DD1",
     "logoURI": "https://token-list.hercules.exchange/images/MAI.svg",
     "decimals": 18,
-    "quote": "other"
+    "quote": "stable"
   },
   {
     "chainId": 599,
@@ -81,6 +81,15 @@
     "name": "USDT Token",
     "address": "0xa845f2A3FCFDD0d572423c3047444C3f5a36E8c6",
     "logoURI": "https://token-list.hercules.exchange/images/USDT.svg",
+    "decimals": 18,
+    "quote": "stable"
+  },
+  {
+    "chainId": 599,
+    "symbol": "HUM",
+    "name": "Hummus",
+    "address": "0xda76aceb65167174c777b768521910f4b8534c23",
+    "logoURI": "https://token-list.hercules.exchange/images/Hum.svg",
     "decimals": 18,
     "quote": "other"
   }
