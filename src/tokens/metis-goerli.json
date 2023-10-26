@@ -92,5 +92,14 @@
     "logoURI": "https://token-list.hercules.exchange/images/Hum.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "WETH",
+    "name": "WETH",
+    "address": "0x16650814660b1bceec61c5e615ae474a63089dcc",
+    "logoURI": "https://token-list.hercules.exchange/images/wETH",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
