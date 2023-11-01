@@ -113,7 +113,7 @@
   },
   {
     "chainId": 599,
-    "symbol": "MOCK2",
+    "symbol": "M-WMETIS",
     "name": "Mock Token 2",
     "address": "0xC37C2cf9Ab54AE0349a208d6C362310fa072f926",
     "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
@@ -122,7 +122,7 @@
   },
   {
     "chainId": 599,
-    "symbol": "MOCK3",
+    "symbol": "M-USDC",
     "name": "Mock Token 3",
     "address": "0x875A703D53a6130DA0210ffaff72B1E284dc4aaE",
     "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
@@ -131,7 +131,7 @@
   },
   {
     "chainId": 599,
-    "symbol": "MOCK4",
+    "symbol": "M-WETH",
     "name": "Mock Token 4",
     "address": "0x2D45aa4ce2552230Aac297808684D4B88327727a",
     "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
@@ -140,7 +140,7 @@
   },
   {
     "chainId": 599,
-    "symbol": "MOCK5",
+    "symbol": "M-USDT",
     "name": "Mock Token 5",
     "address": "0x31a437739B995168727e21F8BF67687101F4B7f9",
     "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
