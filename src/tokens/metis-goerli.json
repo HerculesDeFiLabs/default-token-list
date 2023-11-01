@@ -101,5 +101,59 @@
     "logoURI": "https://token-list.hercules.exchange/images/wETH.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK1",
+    "name": "Mock Token 1",
+    "address": "0x9cEf288f96bEa210D035d2bd35E73256dE8d7659",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK2",
+    "name": "Mock Token 2",
+    "address": "0xC37C2cf9Ab54AE0349a208d6C362310fa072f926",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK3",
+    "name": "Mock Token 3",
+    "address": "0x875A703D53a6130DA0210ffaff72B1E284dc4aaE",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK4",
+    "name": "Mock Token 4",
+    "address": "0x2D45aa4ce2552230Aac297808684D4B88327727a",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK5",
+    "name": "Mock Token 5",
+    "address": "0x31a437739B995168727e21F8BF67687101F4B7f9",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 599,
+    "symbol": "MOCK6",
+    "name": "Mock Token 6",
+    "address": "0xedfB55Ab8Eeb38aF5E18Ca35B121346d90fF257f",
+    "logoURI": "https://token-list.hercules.exchange/images/mocktoken.svg",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
