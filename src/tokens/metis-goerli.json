@@ -63,7 +63,7 @@
     "name": "Wrapped BTC",
     "address": "0xD07623120E790cd073faDe2526943aff1c45FF12",
     "logoURI": "https://token-list.hercules.exchange/images/wbtc.svg",
-    "decimals": 18,
+    "decimals": 8,
     "quote": "other"
   },
   {
